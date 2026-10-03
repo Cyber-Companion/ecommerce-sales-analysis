@@ -1,0 +1,7 @@
+# Raw data (download via python/download_data.py)
+data/raw/
+# Local analysis database
+*.db
+*.sqlite
+__pycache__/
+.ipynb_checkpoints/
